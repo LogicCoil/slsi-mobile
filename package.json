@@ -1,0 +1,12 @@
+{
+  "name": "slsi-desktop",
+  "version": "1.0.0",
+  "description": "S.L.S.I. Desktop Assistant with Profile Navigation and Terminal Elevation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+}
